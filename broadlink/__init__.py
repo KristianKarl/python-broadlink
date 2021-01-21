@@ -48,6 +48,10 @@ SUPPORTED_TYPES = {
     0x7D11: (sp4, "SP mini 3", "Broadlink"),
     0xA56A: (sp4, "MCB1", "Broadlink"),
     0xA589: (sp4, "SP4L-UK", "Broadlink"),
+<<<<<<< HEAD
+=======
+    0x5115: (sp4b, "SCB1E", "Broadlink"),
+>>>>>>> acb45bede4f4f0444f9e692af4085658ffa74390
     0x51E2: (sp4b, "AHC/U-01", "BG Electrical"),
     0x6111: (sp4b, "MCB1", "Broadlink"),
     0x6113: (sp4b, "SCB1E", "Broadlink"),
